@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 200px;
+}
+
+#A1{
+    background-color: brown;
+   
+}
+#A2{
+    background-color: darkblue;
+    margin-left: 300px;
+    margin-top: -98px;
+}
+h1{
+    align-items: center;
+}
+   

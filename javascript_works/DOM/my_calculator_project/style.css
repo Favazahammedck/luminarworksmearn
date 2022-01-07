@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(41, 41, 41);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+
+button{
+    
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    color: rgb(255, 255, 255);
+}
+input{
+    height: 90px;
+    width: 300px;
+}
+#clearid{
+    background-color: rgb(218, 124, 58);
+}
+#delbtn{
+    height: 45px;
+    width: 412px;
+
+}

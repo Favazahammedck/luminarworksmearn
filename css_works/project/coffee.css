@@ -1,0 +1,384 @@
+.parent{
+    width: 100%;
+    height: 1910px;
+    background-color: lightgray;
+    position: relative;
+    
+ 
+    
+}
+
+
+
+
+i{  position: absolute;
+    margin-left: 1170px;
+    font-size: 100px;
+    margin-top: 22px;
+    color: #4d3626;
+    cursor: pointer;
+    transition: 0.3s;
+}
+i:hover {
+    color: darkgoldenrod;
+    transform: translateY(-15px);
+    
+  }
+#heading{
+    position: absolute;
+    margin-top: 2px;
+    font-size: 93px;
+    margin-left: 255px;
+    color: #4d3626;
+    font-family: 'Road Rage', cursive;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#heading:hover{
+    color: darkgoldenrod;
+    transform: translateY(-10px);
+}
+#quote{
+    position: absolute;
+    margin-top: 101px;
+    margin-left: 301px;
+    color: #4d3626;
+
+
+}
+#buttonhome{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20px;
+    background-color: #4d3626;
+    color: floralwhite;
+
+}
+
+#buttonabout{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 80px;
+    background-color: #4d3626;
+    color: floralwhite;
+
+}
+#buttoncontactus{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 140px;
+    background-color: #4d3626;
+    color: floralwhite;
+
+}
+.main{
+    position: absolute;
+    width: 100%;
+    height: 2010px;
+    background-color: rgb(240, 240, 240);
+    margin-top: 131px;
+    background-image: url(./l-d-i-a-dQdyO9jsixA-unsplash.jpg);
+    background-repeat: no-repeat;
+    margin-top: 5px;
+
+}
+
+
+
+#contentheading{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 46px;
+    margin-left: 150px;
+    color: rgba(255, 255, 255, 0.685);
+    cursor: pointer;
+    transition: 0.3s;
+  
+
+}
+#contentheading:hover{
+    color: darkgoldenrod;
+    transform: translateY(-10px);
+    
+}
+#something{
+    position: absolute;
+    font-size: 22px;
+    margin-top: 154px;
+    margin-left: 150px;
+    color: rgba(255, 255, 255, 0.685);
+
+}.des{
+    width: 60%;
+    height: 250px;
+    margin-top: 64px;
+    margin-left: 410px;
+    border: lightslategrey solid 3px;
+    background-color: rgb(154, 155, 154);
+}
+#varhead{
+    font-size: 44px;
+    margin-top: 46px;
+    margin-left: 470px;
+    color: rgba(255, 255, 255, 0.685)
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+#varhead:hover{
+    color: darkgoldenrod;
+    transform: translateY(-10px);
+}
+#types{
+    font-size: 24px;
+    margin-top: -41px;
+    margin-left: 30px;
+    color: rgb(175, 158, 158);
+    
+
+
+}
+#all{
+    font-size: 24px;
+    margin-top: -41px;
+    margin-left: 30px;
+    color: rgb(241, 23, 23);
+
+}
+.colortext{
+    color: rgba(255, 255, 255, 0.685);
+}
+.brands{
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    margin-top: 103px;
+    background-color: #ead7d7;
+}
+.gallery{
+    
+    color: darkred;
+    font-size: xx-large;
+    margin-top: 243px;
+    margin-left: 480px;
+}
+.gallery:hover{
+    color: darkgoldenrod;
+}
+.new{
+    width: 100%;
+    height: 400px;
+    background-color:lightgray;
+    display: flex;
+    justify-content: space-around;
+}
+
+.aa,.ab,.ac,.ad{
+    width: 350px;
+    height: 380px;
+}
+
+.new2{
+    width: 100%;
+    height: 400px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ae,.af,.ag,.ah{
+    width: 350px;
+    height: 380px;
+}
+.new3{
+    width: 100%;
+    height: 400px;
+    background-color:lightgray;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ai,.aj,.ak,.al{
+    width: 350px;
+    height: 380px;
+}
+.topbrands{
+   
+    display: flex;
+    justify-content: space-around;
+
+}
+.star{
+    width: 100%;
+    height: 4635px;
+    background-color: rgb(207, 212, 202);
+   
+
+
+}
+#starbuckimg{
+    width: 500px;
+    height:  350px;
+  
+
+}
+.dunkin img{
+    width: 500px;
+    height:  350px;
+    padding-left: 920px;
+    
+    
+
+}
+.costa img{
+    width: 500px;
+    height:  350px;
+
+}
+.mcc img{
+    width: 500px;
+    height:  350px;
+    padding-left: 920px;
+  
+
+}
+#peetscoffee{
+    width: 500px;
+    height:  350px;
+    
+  
+
+}
+#nescafe{
+    width: 500px;
+    height:  350px;
+    padding-left: 920px;
+  
+
+}
+#gloria{
+    width: 500px;
+    height:  350px;
+    
+  
+
+}
+#tim{
+    width: 500px;
+    height:  350px;
+    padding-left: 920px;
+    
+}
+.form{
+    height: 310px;
+    width: 500px;
+    border: black;
+    background-color: rgb(61, 61, 61);
+    color: honeydew;
+}
+.newnew{
+    
+    /* position: fixed;
+    z-index: 5; */
+    height: 143px;
+    width: 100%;
+    /* margin-top: 1px; */
+    background-color: darkgray;
+   
+
+}
+.footer{
+    width: 100%;
+    height: 129px;
+    background-color: darkgray;
+}
+.submitbut{
+    background-color: darkgreen;
+    color: white;
+    height: 30px;
+    width: 90px;
+    cursor: pointer;
+    transition: 00.3s;
+}
+.submitbut:hover{
+    color: blue;
+    transform: translateY(-10px);
+
+}
+#insta{
+    margin-top: -10px;
+    margin-left: 20px;
+    font-size: 65px;
+
+}
+#whats{
+    margin-top: -10px;
+    margin-left: 90px;
+    font-size: 65px;
+
+}
+#face{
+    margin-top: -10px;
+    margin-left: 180px;
+    font-size: 65px;
+
+}
+#twitt{
+    margin-top: -10px;
+    margin-left: 270px;
+    font-size: 65px;
+    
+
+}
+#connect{
+    margin-top: -10px;
+    margin-left: 650px;
+    color: #4d3626;
+
+}
+#addressfooter{
+    margin-left: 1000px;
+    margin-top: -59px;
+
+}
+#connect:hover{
+    color: darkgoldenrod;
+}
+#stable{
+    margin-top: -25px;
+    height: 150%;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

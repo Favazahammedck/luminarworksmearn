@@ -1,0 +1,42 @@
+.row{
+    border: solid black 2px;
+    height: 500px;
+    width: 500px;
+    background-color: cadetblue;
+    position: relative;
+}
+.col{
+    height: 200px;
+    width: 100px;
+    border: solid black 2px;
+}
+.col-1{
+    position: absolute;
+    background-color: blueviolet;
+}
+.col-2{
+    position: absolute;
+    background-color: brown;
+    left: 105px;
+
+}
+
+.col-3{
+    position: absolute;
+    background-color: rgb(21, 116, 45);
+    left: 210px;
+
+}
+
+.col-4{
+    position: absolute;
+    background-color: rgb(146, 22, 80);
+    left: 315px;
+
+}
+body{
+    background-image: url(./there_will_be_blood-paramount.jpg);
+    background-position: center;
+}
+
+

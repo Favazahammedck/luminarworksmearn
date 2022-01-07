@@ -1,0 +1,24 @@
+.row {
+    width: 100%;
+    height: 1000px;
+    background-color: cadetblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /*
+    different positions:- 
+    right
+    left
+    space-evenly
+    space-between
+    space-around
+    */
+}
+
+.col {
+    width: 110px;
+    height: 10px;
+    background-color: crimson;
+    border: darkkhaki 2px solid;
+    d
+}

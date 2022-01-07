@@ -1,0 +1,25 @@
+h1{
+    color: chartreuse;
+}
+#q1{
+    color: chocolate;
+}
+#q2{
+    color: cyan;
+}
+.w{
+    color: darkgreen;
+}
+body{
+    background-color: darkseagreen;
+}
+
+
+
+/*
+1 tag selecter = tag name
+2 id selecter = #
+3 class selector = .(dot)
+
+
+*/

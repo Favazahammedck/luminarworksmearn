@@ -1,0 +1,38 @@
+
+body{
+    background-color: black;
+}
+h1{
+  text-align: center;
+  color: azure;
+}
+div{
+    height: 560px;
+    width: 18%;
+
+    float: left;
+    padding: 10px;
+  
+}
+
+    div img{
+        height: 320px;
+        width: 100%;
+    
+    }
+    h2{
+        color: azure;
+    }
+    p{
+        color: azure;
+    }
+    #coloumn{
+        border: solid 1px;
+        height: 15px;
+        width: 85%;
+        color: azure;
+        text-align: center;
+       
+      
+    }
+

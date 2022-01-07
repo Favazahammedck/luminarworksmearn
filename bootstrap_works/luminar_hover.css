@@ -1,0 +1,57 @@
+h2{
+    margin-top: 70px;
+  color: #5e068a;
+}
+span{
+    color: rgb(189, 134, 240);
+}
+#para{
+    position: absolute;
+    height: 300px;
+    width: 600px;
+}
+#Girl_img{
+    position: relative;
+    margin-left: 800px;
+    margin-top: 10px;
+
+}
+button{
+    margin-top: 100px;
+    background-color: #5e068a;
+    color: white;
+    font-weight: 600;
+
+}
+#btn{
+    
+    border-radius: 100px;
+    height: 65px;
+    width: 165px;
+
+}
+#btn:hover{
+    background-color: white;
+    color: #5e068a;
+    border: 2px solid #5e068a;
+}
+
+.A{
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards{
+    height: 430px;
+     display: flex;
+     justify-content: space-between;
+ }
+ .card-title{
+    color: #5e068a;
+
+ }
+ #q{
+     background-color: #5e068a;;
+ }
+ 

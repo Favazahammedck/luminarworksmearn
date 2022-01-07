@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Griffy&family=Pacifico&display=swap');
+body{
+    background-color: darkcyan;
+    
+}
+#A1{
+    color: darkred;
+}
+.Q1{
+    background-color: rgb(231, 137, 94);
+}
+#Q2{
+    color: floralwhite;
+}
+#fontstyle{
+    font-family: 'Griffy', cursive;
+    font-size: x-large;
+
+}
+header{
+    background-color: palevioletred ;
+}
+main{
+    background-color: royalblue;
+}
+footer{
+    background-color: salmon;
+}
